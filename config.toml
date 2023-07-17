@@ -30,7 +30,7 @@ _merge = "none"
   # use [params.contact.email] instead.
   #email = "john.doe@example.com"
   description = "Block page"
-  bio = "This page has been blocked as per our corporate policy.<br>If you believe this is an error, please contact IT support"
+  bio = "This page has been blocked as per our corporate policy.<br/>If you believe this is an error, please contact IT support"
   avatar = "img/avatar.png"
   favicon = "img/favicon.png"
   error404 = "There is no such page."
